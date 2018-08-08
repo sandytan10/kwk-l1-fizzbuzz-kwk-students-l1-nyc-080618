@@ -11,6 +11,7 @@ def shake_it_off
   puts "hate"
   hate_count = hate_count + 1
   end 
+ puts "baby I'm just gonna..."
 end 
 
 shake_it_off
